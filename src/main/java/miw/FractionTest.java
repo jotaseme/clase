@@ -1,11 +1,11 @@
-package es.upm.miw.test;
+ package miw;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import es.upm.miw.Fraction;             
+import miw.Fraction;             
 
 public class FractionTest {
 	

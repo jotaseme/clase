@@ -1,4 +1,4 @@
-package es.upm.miw;
+package miw;
 
 /**
  * Conceptos: Las fracciones propias son aquellas cuyo numerador es menor que el
@@ -36,7 +36,7 @@ package es.upm.miw;
  */
 public class Fraction {
     
-    private int numerator;
+    private int numerator; 
     private int denominator;
 
     public Fraction(int numerator, int denominator) {
